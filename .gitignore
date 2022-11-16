@@ -1,0 +1,11 @@
+# vscode IDE setting
+.vscode/
+
+# dependency directories
+node_modules/
+
+# build
+dist
+
+# test coverage
+coverage/
