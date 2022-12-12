@@ -8,7 +8,8 @@ $ npm install
 
 ## 실행
 
-실행 후 localhost:3000으로 접속
+- localhost:3000 접속
+- localhost:3000/api 스웨거문서 접속
 
 ### 로컬 실행
 
