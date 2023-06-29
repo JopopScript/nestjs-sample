@@ -42,14 +42,3 @@ $ npm run test
 # test coverage
 $ npm run test:cov
 ```
-부모님앱
-
-Android: https://appdistribution.firebase.dev/i/91d16dae8c3be627
-
-iOS: https://appdistribution.firebase.dev/i/f122107883673f47
-
-선생님앱
-
-Android: https://appdistribution.firebase.dev/i/5b3011b399f5b560
-
-iOS: https://appdistribution.firebase.dev/i/9adad42a5e50defc
